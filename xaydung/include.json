@@ -1,0 +1,18 @@
+{
+    "SETUP": {
+        "index": {
+            "body": [
+                "headerer/h-12",
+                "banner/b-2",
+                "boxes/b-7",
+                "boxes/b-4",
+                "carousel/c-2",
+                "boxes/b-7",
+                "carousel/c-2"
+            ],
+            "footer": [
+                "footer/f-5"
+            ]
+        }
+    }
+}
